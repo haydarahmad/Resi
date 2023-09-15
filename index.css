@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'dancing';
+  src: url('fonts/font.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'dancing', sans-serif; /* Menggunakan font yang telah ditambahkan */
+}
